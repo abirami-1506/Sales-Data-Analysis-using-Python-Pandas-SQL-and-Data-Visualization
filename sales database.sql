@@ -1,4 +1,4 @@
-
+*/
 =================================================
 SALES DATA ANALYSIS USING SQL
 =================================================
@@ -34,6 +34,9 @@ Outcome:
 Generated meaningful insights from sales data to
 support business decision-making.
 ================================================
+/*
+
+
 
 create database sales_db;
 use sales_db;
