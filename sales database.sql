@@ -1,3 +1,40 @@
+/*
+=================================================
+SALES DATA ANALYSIS USING SQL
+=================================================
+
+Project Objective:
+Analyze sales data to identify sales performance,
+regional trends, category-wise revenue, and key
+business insights.
+
+Operations Performed:
+1. Database Creation
+2. Table Creation
+3. Data Import and Validation
+4. Data Exploration
+5. Total Sales Analysis
+6. Region-wise Sales Analysis
+7. Category-wise Performance Analysis
+8. Product Performance Analysis
+9. Revenue Calculation
+10. Business Insights Generation
+
+Key SQL Concepts Used:
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- SUM()
+- COUNT()
+- AVG()
+- Aggregate Functions
+
+Outcome:
+Generated meaningful insights from sales data to
+support business decision-making.
+================================================
+
 create database sales_db;
 use sales_db;
 
